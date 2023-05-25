@@ -1,2 +1,2 @@
-<h2>dmx805 GitHub Page</h2>
+<h1>dmx805 GitHub Page</h1>
 
